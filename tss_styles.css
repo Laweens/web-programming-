@@ -23,24 +23,32 @@
 body {
    background-color: ivory;
    color: rgb(91, 91, 91);
-   font-family: Quicksand, Verdana, Geneva, sans-serif;
+   font-family:Verdana, Geneva, sans-serif;
 }
 
 
 
 
 /* Heading Styles */
-h1 {
+article#index.html h1 {
+   color: white;
    font-size: 2.2em;
+   background-color: rgb(222,128,60);
 }
-h1 {
+article#index.html h2 {
    font-size: 1.5em;
+   color: white;
+   background-color: rgb(235,177,131);
 }
 h1,h2 {
    font-family: quicksand, Verdana, Geneva, sans-serif;
    letter-spacing: 0.1em;
 }
 
+article.syllabus h1, article.syllabus h2 {
+    background-color: rgb(255, 185, 255);
+    color: rgb(101, 101, 101);
+}
 
 
 
