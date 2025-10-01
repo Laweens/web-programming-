@@ -90,7 +90,7 @@ article.syllabus ol ol ol {
 }
 
 article#about_tss ul li:first-of-type {
-    list-style-image: url(runicon.png);
+    list-style-image: url(bikeicon.png);
 }
 
 article#about_tss ul li:nth-of-type(2) {
